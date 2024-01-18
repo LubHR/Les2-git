@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f82e66dc-925c-4cb2-8bcc-a2ad7aab6dd2" name="Changes" comment="Додав інфу 3" />
+    <list default="true" id="f82e66dc-925c-4cb2-8bcc-a2ad7aab6dd2" name="Changes" comment="Початковий стан 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="side-master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "side-master",
+    "git-widget-placeholder": "jar-big",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Курс/Les2-git",
@@ -65,23 +67,7 @@
       <option name="project" value="LOCAL" />
       <updated>1705568722776</updated>
     </task>
-    <task id="LOCAL-00002" summary=".">
-      <option name="closed" value="true" />
-      <created>1705569671736</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1705569671736</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Додав інфу 3">
-      <option name="closed" value="true" />
-      <created>1705569927001</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1705569927001</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,8 +86,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Початковий стан 1" />
-    <MESSAGE value="." />
-    <MESSAGE value="Додав інфу 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Додав інфу 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Початковий стан 1" />
   </component>
 </project>
